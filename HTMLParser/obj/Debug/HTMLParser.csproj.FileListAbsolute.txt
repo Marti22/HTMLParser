@@ -1,0 +1,11 @@
+F:\проектікі\HTMLParser\HTMLParser\bin\Debug\HTMLParser.exe.config
+F:\проектікі\HTMLParser\HTMLParser\bin\Debug\HTMLParser.exe
+F:\проектікі\HTMLParser\HTMLParser\bin\Debug\HTMLParser.pdb
+F:\проектікі\HTMLParser\HTMLParser\bin\Debug\AngleSharp.dll
+F:\проектікі\HTMLParser\HTMLParser\bin\Debug\AngleSharp.xml
+F:\проектікі\HTMLParser\HTMLParser\obj\Debug\HTMLParser.csprojResolveAssemblyReference.cache
+F:\проектікі\HTMLParser\HTMLParser\obj\Debug\HTMLParser.Form1.resources
+F:\проектікі\HTMLParser\HTMLParser\obj\Debug\HTMLParser.Properties.Resources.resources
+F:\проектікі\HTMLParser\HTMLParser\obj\Debug\HTMLParser.csproj.GenerateResource.Cache
+F:\проектікі\HTMLParser\HTMLParser\obj\Debug\HTMLParser.exe
+F:\проектікі\HTMLParser\HTMLParser\obj\Debug\HTMLParser.pdb
